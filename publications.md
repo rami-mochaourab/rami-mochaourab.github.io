@@ -5,7 +5,7 @@ title: Publications
 
 ### Journals
 
-15. R. Mochaourab, A. Venkitaraman, I. Samsten, P. Papapetrou, and C. R. Rojas, "[Interpretable Time Series Classification: A Signal Processing Perspective]()," submitted to IEEE Signal Processing Magazin, Special Issue on Explainability in Data Science: Interpretability, Reproducibility, and Replicability, 2021.
+15. R. Mochaourab, A. Venkitaraman, I. Samsten, P. Papapetrou, and C. R. Rojas, "[Interpretable Time Series Classification: A Signal Processing Perspective]()," submitted to IEEE Signal Processing Magazine, Special Issue on Explainability in Data Science: Interpretability, Reproducibility, and Replicability, 2021.
 
 14. R. Mochaourab and T. Oechtering, "[Private Filtering for Hidden Markov Models](https://doi.org/10.1109/LSP.2018.2827878)," *IEEE Signal Processing Letters*, vol. 25, no. 6, pp. 888-892, Jun. 2018.
 
