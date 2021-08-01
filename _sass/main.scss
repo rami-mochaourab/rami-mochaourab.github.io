@@ -26,19 +26,22 @@ a {color: #1954A6;/**/
   font-weight:normal;
 }
 
-@media screen and (max-width: 768px) {
+$breakpoint-tablet: 768px;
+
+@media screen and (max-width: breakpoint-tablet) {
     /* For desktop: */
 
     #medium{display: none;}
     #small{display: block;}
 }
-@media screen and (min-width: 768px) {
+
+@media screen and (min-width: breakpoint-tablet) {
     /* For desktop: */
 
     #medium{display: block;}
     #small{display: none;}
 
     body{
-    max-width: 768px;
+    max-width: breakpoint-tablet;
     }
 }
