@@ -4,6 +4,9 @@ title: Publications
 ---
 
 ### Journals
+
+15. R. Mochaourab, A. Venkitaraman, I. Samsten, P. Papapetrou, and C. R. Rojas, "[Interpretable Time Series Classification: A Signal Processing Perspective]()," submitted to IEEE Signal Processing Magazin, Special Issue on Explainability in Data Science: Interpretability, Reproducibility, and Replicability, 2021.
+
 14. R. Mochaourab and T. Oechtering, "[Private Filtering for Hidden Markov Models](https://doi.org/10.1109/LSP.2018.2827878)," *IEEE Signal Processing Letters*, vol. 25, no. 6, pp. 888-892, Jun. 2018.
 
 13. R. Brandt, R. Mochaourab, and M. Bengtsson, "[Distributed Long-Term Base Station Clustering in Cellular Networks using Coalition Formation](http://dx.doi.org/10.1109/TSIPN.2016.2548781)," *IEEE Transactions on Signal and Information Processing over Networks*, vol. 2, no. 3, pp. 362-375, Sep. 2016. [[arXiv]](http://arxiv.org/abs/1602.07859)
@@ -34,6 +37,9 @@ title: Publications
 
 
 ### Conferences and Workshops
+
+33. Z. Wang, I. Samsten, R. Mochaourab and P. Papapetrou, "[Learning Time Series Counterfactuals via Latent Space Representations]()," accepted at International Conference on Discovery Science (DS 2021), Oct. 2021.
+
 
 32. R. Mochaourab, S. Sinha, S. Greenstein, and P. Papapetrou, "[Robust Counterfactual Explanations for Privacy-Preserving SVM](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Ari%3Adiva-55465)," International Conference on Machine Learning (ICML 2021), Workshop on Socially Responsible Machine Learning ([link](https://icmlsrml2021.github.io/)), Jul. 2021. [[arXiv]](https://arxiv.org/abs/2102.03785)
 
