@@ -1,9 +1,7 @@
-<div class="navigation">
-<a target="_self" href="index.html">Home</a>&emsp;&emsp;
-<a target="_self" href="publications.html">Publications</a>&emsp;&emsp;
-<a target="_self" href="awards.html">Awards</a>&emsp;&emsp;
-<a target="_self" href="reviewer.html">Reviewer</a>
-</div>
+---
+layout: default
+title: Reviewer
+---
 
 ### Reviewer for the following journals and letters:
 

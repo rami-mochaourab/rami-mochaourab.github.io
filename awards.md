@@ -1,9 +1,7 @@
-<div class="navigation">
-<a target="_self" href="index.html">Home</a>&emsp;&emsp;
-<a target="_self" href="publications.html">Publications</a>&emsp;&emsp;
-<a target="_self" href="awards.html">Awards</a>&emsp;&emsp;
-<a target="_self" href="reviewer.html">Reviewer</a>
-</div>
+---
+layout: default
+title: Awards
+---
 
 <h3 itemprop="award">Awards</h3>
 * IEEE Wireless Communications Letters Exemplary Reviewer 2015
