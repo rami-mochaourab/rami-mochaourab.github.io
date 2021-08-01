@@ -57,8 +57,10 @@ code {
     font: 12px/1.5em Arial, 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-code a:link, code a:visited {
+code { 
+  a:link, code a:visited {
     color: #62922E;
+}
 }
 
 a {color: #1954A6;/**/
