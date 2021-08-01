@@ -3,6 +3,9 @@ layout: default
 title: Reviewer
 ---
 
+### Editor
+* Associate Editor for the EURASIP Journal on Wireless Communications and Networking (since Jan. 2017)
+
 ### Reviewer for the following journals and letters:
 
 * IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology, IEEE Transactions on Communications, IEEE Journal on Selected Areas in Communications, IEEE Wireless Communications Letters, IEEE Communications Letters, IEEE Communications Magazine, IET Communications
