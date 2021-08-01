@@ -6,7 +6,49 @@
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
   <body>
-    {% include navigation.html %}
-    {{ content }}
+
+    <div class="block" id="small">
+        <h3 itemprop="name">Rami Mochaourab</h3>
+        <p>
+        <i>Postdoctoral Fellow</i>
+        </p>
+        <p itemprop="affiliation">
+        Department of Automatic Control<br>
+        Department of Information Science and Engineering<br>
+        KTH Royal Institute of Technology
+        </p>
+        <p itemprop="email">
+        ramimo@kth.se
+        </p>
+        <!--<p><a href="cv_rami_mochaourab.pdf">Curriculum Vitae</a></p>-->
+        <p>
+        <a href="http://scholar.google.com/citations?user=o3R2mZ4AAAAJ">Google Scholar Profile</a>
+        </p>
+    </div>
+
+    <div class="block" id="medium">
+    <img itemprop="image" src="photo.jpg" width="145" alt="picture" style="border-radius: 15px;float: left; margin-right: 25px">
+
+    <h3 itemprop="name">Rami Mochaourab</h3>
+    <i>Postdoctoral Fellow</i>
+    <p itemprop="affiliation">
+    Department of Automatic Control<br>
+    Department of Information Science and Engineering<br>
+    KTH Royal Institute of Technology
+    </p>
+    <p>
+    <span itemprop="email">ramimo@kth.se</span>
+    &emsp;&emsp;
+    <a itemprop="url" href="http://scholar.google.com/citations?user=o3R2mZ4AAAAJ">Google Scholar Profile</a>
+    </p>
+    </div>
+
+    <div class="navigation">
+    <a target="_self" href="index.html">Home</a>&emsp;&emsp;
+    <a target="_self" href="publications.html">Publications</a>&emsp;&emsp;
+    <a target="_self" href="awards.html">Awards</a>&emsp;&emsp;
+    <a target="_self" href="reviewer.html">Reviewer</a>
+    </div>
+
   </body>
 </html>
