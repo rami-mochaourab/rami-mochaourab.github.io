@@ -4,6 +4,7 @@ title: Publications
 ---
 
 ### Journals
+14. R. Mochaourab and T. Oechtering, "[Private Filtering for Hidden Markov Models](https://doi.org/10.1109/LSP.2018.2827878)," *IEEE Signal Processing Letters*, vol. 25, no. 6, pp. 888-892, Jun. 2018.
 
 13. R. Brandt, R. Mochaourab, and M. Bengtsson, "[Distributed Long-Term Base Station Clustering in Cellular Networks using Coalition Formation](http://dx.doi.org/10.1109/TSIPN.2016.2548781)," *IEEE Transactions on Signal and Information Processing over Networks*, vol. 2, no. 3, pp. 362-375, Sep. 2016. [[arXiv]](http://arxiv.org/abs/1602.07859)
 
@@ -33,7 +34,10 @@ title: Publications
 
 
 ### Conferences and Workshops
-31. J. Ok, S.-Y. Yun, A. Proutiere, and R. Mochaourab, "[Collaborative Clustering: Sample complexity and Efficient Algorithms](https://dl.dropboxusercontent.com/u/65914625/paper_files/Crowdsourcing/ALT2017_collaborative_clustering.pdf)," International Conference on Algorithmic Learning Theory (ALT), Oct. 2017. to appear.
+
+32. R. Mochaourab, S. Sinha, S. Greenstein, and P. Papapetrou, "[Robust Counterfactual Explanations for Privacy-Preserving SVM](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Ari%3Adiva-55465)," International Conference on Machine Learning (ICML 2021), Workshop on Socially Responsible Machine Learning ([link](https://icmlsrml2021.github.io/)), Jul. 2021. [[arXiv]](https://arxiv.org/abs/2102.03785)
+
+31. J. Ok, S.-Y. Yun, A. Proutiere, and R. Mochaourab, "[Collaborative Clustering: Sample complexity and Efficient Algorithms](http://proceedings.mlr.press/v76/ok17a.html)," International Conference on Algorithmic Learning Theory (ALT), PMLR 76:288-329, 2017.
 
 30. J. Yang, R. Mochaourab, and M. Bengtsson, "[Distributed Queue-Aware Beamforming in MISO Interference Channels](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7499118&isnumber=7499094)," in *Proc. of ITG WSA*, Munich, Germany, Mar. 2016.
 
@@ -41,7 +45,7 @@ title: Publications
 
 28. H. Ghauch, R. Mochaourab, M. Bengtsson, and M. Skoglund, "[Distributed Precoding and User Selection in MIMO Interfering Networks](http://dx.doi.org/10.1109/CAMSAP.2015.7383836)," in *Proc. of IEEE CAMSAP*, Cancun, Mexico, Dec. 2015.
 
-27. R. Brandt, R. Mochaourab, and M. Bengtsson, "[Interference Alignment-Aided Base Station Clustering using Coalition Formation](http://dx.doi.org/10.1109/ACSSC.2015.7421307)," in *Proc. of Asilomar Conference on Signals, Systems and Computers,* Nov. 2015. <span class="alert">Best Student Paper Award (2nd prize).</span>
+27. R. Brandt, R. Mochaourab, and M. Bengtsson, "[Interference Alignment-Aided Base Station Clustering using Coalition Formation](http://dx.doi.org/10.1109/ACSSC.2015.7421307)," in *Proc. of Asilomar Conference on Signals, Systems and Computers,* Nov. 2015. <span class="alert">Best Student Paper Award.</span>
 
 26. R. Mochaourab, R. Brandt, H. Ghauch, and M. Bengtsson, "[Overhead-Aware Distributed CSI Selection in the MIMO Interference Channel](http://www.eurasip.org/Proceedings/Eusipco/Eusipco2015/papers/1570103793.pdf)," in *Proc. of EUSIPCO, Special Session on Algorithms for Distributed Coordination and Learning*, Nice, France, Aug. 2015. Invited paper.
 
