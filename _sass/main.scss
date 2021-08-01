@@ -1,3 +1,12 @@
 .current {
   color: green;
 }
+
+nav {
+    float: left;
+    border-radius: 10px;
+    padding: 7.5px 15px;
+    margin: 0px 15px 20px -15px;
+    width: calc(100% + 30px);
+    background-color: #EFF0EF;
+}
