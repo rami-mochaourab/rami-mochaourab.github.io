@@ -25,3 +25,20 @@ a {color: #1954A6;/**/
   text-decoration:none;
   font-weight:normal;
 }
+
+@media screen and (max-width: 768px) {
+    /* For desktop: */
+
+    #medium{display: none;}
+    #small{display: block;}
+}
+@media screen and (min-width: 768px) {
+    /* For desktop: */
+
+    #medium{display: block;}
+    #small{display: none;}
+
+    body{
+    max-width: 768px;
+    }
+}
