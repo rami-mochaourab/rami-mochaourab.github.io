@@ -4,13 +4,6 @@ title: Publications
 ---
 
 ### Journals
-[//]: # (14. R. Mochaourab and T. Tanaka)
-[//]: # ([On epsilon-Optimal Distributed Time-extended Assignment of Single-robot Tasks to Single-task Robots]())
-[//]: # (*submitted to IEEE Transactions on Robotics*, 2016.)
-
-[//]: # (15. R. Mochaourab, "[On Optimal Distributed Time-extended Assignment of Single-robot Tasks to Single-task Robots](javascript:available_soon())," *submitted to IEEE Transactions on Robotics*, Jan. 2017.)
-
-[//]: # (14. R. Mochaourab, E. A. Jorswieck, and M. Bengtsson, "[Distributed Clustering for Multiuser Networks through Coalition Formation](https://arxiv.org/abs/1701.06220)," *submitted to IEEE Signal Processing Magazine [Lecture Notes]*, Dec. 2016.)
 
 13. R. Brandt, R. Mochaourab, and M. Bengtsson, "[Distributed Long-Term Base Station Clustering in Cellular Networks using Coalition Formation](http://dx.doi.org/10.1109/TSIPN.2016.2548781)," *IEEE Transactions on Signal and Information Processing over Networks*, vol. 2, no. 3, pp. 362-375, Sep. 2016. <code>[[arXiv]](http://arxiv.org/abs/1602.07859)</code>
 
@@ -129,10 +122,4 @@ title: Publications
 1. E. A. Jorswieck and R. Mochaourab, "[Walrasian Model for Resource Allocation and Transceiver Design in Interference Networks](http://dx.doi.org/10.1017/CBO9781139524421.006)," *in Mechanisms and Games for Dynamic Spectrum Allocation*, T. Alpcan, H. Boche, M. Honig, and H. V. Poor, Eds. Cambridge Univ. Press, Dec. 2013
 
 1. E. A. Jorswieck, R. Mochaourab, and Z. K. M. Ho, "[Game Theory for Physical Layer Security on Multi-Antenna Interference Channels](http://www.crcpress.com/product/isbn/9781466567009)," *in Physical Layer Security in Wireless Communications*, X. Zhou, L. Song, Y. Zhang, Eds. CRC Press, Nov. 2013.
-
-
-[//]: # (### Thesis)
-[//]: # (* Ph.D. Thesis: [Game Theory and Microeconomic Theory for Beamforming Design in Multiple-Input Single-Output Interference Channels](http://www.qucosa.de/fileadmin/data/qucosa/documents/9011/Thesis_Mochaourab_2012.pdf), Dresden University of Technology, May 2012.)
-
-[//]: # (* Diploma Thesis: [Energy-Efficient Topology Control Protocol for Wireless Sensor Networks with Mobile Nodes](papers/RM_Diploma_Thesis.pdf), Dresden University of Technology, Jan. 2008)
 

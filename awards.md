@@ -3,7 +3,8 @@ layout: default
 title: Awards
 ---
 
-<h3 itemprop="award">Awards</h3>
+### Awards
+
 * IEEE Wireless Communications Letters Exemplary Reviewer 2015
 * IEEE Communications Letters Exemplary Reviewer 2015
 * Best Student Paper Award (2nd prize, 2nd author) at Asilomar Conference (ACSSC) 2015
