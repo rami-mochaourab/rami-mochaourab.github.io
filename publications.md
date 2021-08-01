@@ -5,7 +5,7 @@ title: Publications
 
 ### Journals
 
-13. R. Brandt, R. Mochaourab, and M. Bengtsson, "[Distributed Long-Term Base Station Clustering in Cellular Networks using Coalition Formation](http://dx.doi.org/10.1109/TSIPN.2016.2548781)," *IEEE Transactions on Signal and Information Processing over Networks*, vol. 2, no. 3, pp. 362-375, Sep. 2016. <code>[[arXiv]](http://arxiv.org/abs/1602.07859)</code>
+13. R. Brandt, R. Mochaourab, and M. Bengtsson, "[Distributed Long-Term Base Station Clustering in Cellular Networks using Coalition Formation](http://dx.doi.org/10.1109/TSIPN.2016.2548781)," *IEEE Transactions on Signal and Information Processing over Networks*, vol. 2, no. 3, pp. 362-375, Sep. 2016. [[arXiv]](http://arxiv.org/abs/1602.07859)
 
 12. R. Mochaourab, E. Björnson, and M. Bengtsson, "[Adaptive Pilot Clustering in Heterogeneous Massive MIMO Networks](http://dx.doi.org/10.1109/TWC.2016.2561289)," *IEEE Transactions on Wireless Communications*, vol. 15, no. 8, pp. 5555-5568, Aug. 2016. <code>[[arXiv]](http://arxiv.org/abs/1507.04869)</code>
 
