@@ -1,2 +1,4 @@
-
-test
+---
+layout: default
+title: About
+---
