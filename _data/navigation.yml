@@ -1,4 +1,8 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
+- name: Publications
+  link: /publications.html
+- name: Awards
+  link: /awards.html
+- name: Reviewer
+  link: /reviewer.html
