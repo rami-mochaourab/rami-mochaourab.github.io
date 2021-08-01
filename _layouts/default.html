@@ -6,6 +6,13 @@
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
   <body>
+
+    {% if page.title == "Home" %}
+      <div class="sidebar">
+        sidebar content
+      </div>
+    {% endif %}
+
     {% include navigation.html %}
     {{ content }}
   </body>
