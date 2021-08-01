@@ -1,0 +1,163 @@
+body {
+    font: 14px/1.5em Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    /*font-family: Georgia,Times,Times New Roman,serif;*/
+    color: #323232;
+    background-color: #FFF;
+    margin:auto;
+    padding: 15px 15px;
+    overflow-x: auto;
+    }
+
+.block {
+    border-radius: 15px;
+    float: left;
+    padding: 15px 15px;
+    margin: 0px 15px 20px -15px;
+    background-color: #EFF0EF;
+    width: calc(100% + 30px);
+}
+
+.fit_to_screen {
+    min-height: calc(100vh - 100px);
+    padding:0px 15px 0px 15px;
+}
+
+.block::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.navigation {
+    float: left;
+    border-radius: 10px;
+    padding: 7.5px 15px;
+    margin: 0px 15px 20px -15px;
+    width: calc(100% + 30px);
+    background-color: #EFF0EF;
+}
+
+
+.footer {
+    padding: 20px 0px;
+    margin-bottom: 20px;
+    float: left;
+    font-size: .7em;
+    color: #65656c;
+    width: 100%;
+    height: 45px;
+}
+.top {
+    padding: 20px 0px;
+    float: left;
+    font-size: .7em;
+    color: #65656c;
+    width: 100%;
+    height: 45px;
+}
+* {
+    box-sizing: border-box;
+}
+
+.alert{
+    color: #E4363E;
+}
+
+
+li{
+    margin-top: 8.125px;
+}
+/*li:nth-child(odd) { background-color: #EFF0EF; }*/
+
+blockquote {
+    padding: 0px 0px;
+    margin: 0px 100px 0px 30px;
+}
+
+code {
+    /*font: 1em/1.4em Consolas, Monaco, Andale Mono, monospace;
+    padding: 0px 0px;
+    line-height: 1;*/
+    font: 12px/1.5em Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+code a:link, code a:visited {
+    color: #62922E;
+}
+
+a {color: #1954A6;/**/
+  text-decoration:none;
+  font-weight:normal;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: normal;
+    font-family: Georgia,Times,"Times New Roman",serif;
+}
+p {
+    margin: 0px;
+    padding: 5px 0px;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-top: 0.54em;
+    margin-bottom: 0.8em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+    }
+h2 {
+    display: block;
+    font-size: 1.6em;
+    margin-top: 0.3em;
+    margin-bottom: 0.8em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+}
+
+h3 {
+    display: block;
+    font-size: 1.2em;
+    margin-top: .5em;
+    margin-bottom: .6em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h4 {
+    display: block;
+    margin-top: 1.33em;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h5 {    
+    display: block;
+    font-size: .83em;
+    margin-top: 1.67em;
+    margin-bottom: 1.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 768px) {
+    /* For desktop: */
+
+    #medium{display: none;}
+    #small{display: block;}
+}
+@media screen and (min-width: 768px) {
+    /* For desktop: */
+
+    #medium{display: block;}
+    #small{display: none;}
+
+    body{
+    max-width: 768px;
+    }
+}
