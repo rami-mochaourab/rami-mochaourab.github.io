@@ -28,20 +28,20 @@ a {color: #1954A6;/**/
 
 $breakpoint-tablet: 768px;
 
-@media screen and (max-width: breakpoint-tablet) {
+@media screen and (max-width: $breakpoint-tablet) {
     /* For desktop: */
 
     #medium{display: none;}
     #small{display: block;}
 }
 
-@media screen and (min-width: breakpoint-tablet) {
+@media screen and (min-width: $breakpoint-tablet) {
     /* For desktop: */
 
     #medium{display: block;}
     #small{display: none;}
 
-    body{
-    max-width: breakpoint-tablet;
+    body {
+      max-width: $breakpoint-tablet;
     }
 }
