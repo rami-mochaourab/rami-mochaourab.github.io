@@ -12,6 +12,20 @@ body {
   color: #19A654;
 }
 
+.block {
+    border-radius: 15px;
+    float: left;
+    padding: 15px 15px;
+    margin: 0px 15px 20px -15px;
+    background-color: #EFF0EF;
+    width: calc(100% + 30px);
+}
+
+.block::after {
+    content: "";
+    clear: both;
+    display: block;
+
 .navigation {
     float: left;
     border-radius: 10px;
