@@ -7,20 +7,19 @@ title: Publications
 
 13. R. Brandt, R. Mochaourab, and M. Bengtsson, "[Distributed Long-Term Base Station Clustering in Cellular Networks using Coalition Formation](http://dx.doi.org/10.1109/TSIPN.2016.2548781)," *IEEE Transactions on Signal and Information Processing over Networks*, vol. 2, no. 3, pp. 362-375, Sep. 2016. [[arXiv]](http://arxiv.org/abs/1602.07859)
 
-12. R. Mochaourab, E. Björnson, and M. Bengtsson, "[Adaptive Pilot Clustering in Heterogeneous Massive MIMO Networks](http://dx.doi.org/10.1109/TWC.2016.2561289)," *IEEE Transactions on Wireless Communications*, vol. 15, no. 8, pp. 5555-5568, Aug. 2016. <code>[[arXiv]](http://arxiv.org/abs/1507.04869)</code>
+12. R. Mochaourab, E. Björnson, and M. Bengtsson, "[Adaptive Pilot Clustering in Heterogeneous Massive MIMO Networks](http://dx.doi.org/10.1109/TWC.2016.2561289)," *IEEE Transactions on Wireless Communications*, vol. 15, no. 8, pp. 5555-5568, Aug. 2016. [[arXiv]](http://arxiv.org/abs/1507.04869)
 
-11. R. Brandt, R. Mochaourab, and M. Bengtsson, "[Globally Optimal Base Station Clustering in Interference Alignment-Based Multicell Networks](http://dx.doi.org/10.1109/LSP.2016.2536159)," *IEEE Signal Processing Letters*, vol. 23, no. 4, pp. 512-516, Apr. 2016. <code>[[arXiv]](http://arxiv.org/abs/1602.08273)</code>
+11. R. Brandt, R. Mochaourab, and M. Bengtsson, "[Globally Optimal Base Station Clustering in Interference Alignment-Based Multicell Networks](http://dx.doi.org/10.1109/LSP.2016.2536159)," *IEEE Signal Processing Letters*, vol. 23, no. 4, pp. 512-516, Apr. 2016. [[arXiv]](http://arxiv.org/abs/1602.08273)
 
-10. R. Mochaourab, B. Holfeld, and T. Wirth, "[Distributed Channel Assignment in Cognitive Radio Networks: Stable Matching and Walrasian Equilibrium](http://dx.doi.org/10.1109/TWC.2015.2414918)," *IEEE Transactions on Wireless Communications*, vol. 14, no. 7, pp. 3924-3936, Jul. 2015. <code>[[arXiv]](http://arxiv.org/abs/1404.5859)</code>
+10. R. Mochaourab, B. Holfeld, and T. Wirth, "[Distributed Channel Assignment in Cognitive Radio Networks: Stable Matching and Walrasian Equilibrium](http://dx.doi.org/10.1109/TWC.2015.2414918)," *IEEE Transactions on Wireless Communications*, vol. 14, no. 7, pp. 3924-3936, Jul. 2015. [[arXiv]](http://arxiv.org/abs/1404.5859)
 
-9. R. Mochaourab and E. A. Jorswieck, "[Coalitional Games in MISO Interference Channels: Epsilon-Core and Coalition Structure Stable Set](http://dx.doi.org/10.1109/TSP.2014.2367466)," *IEEE Transactions on Signal Processing*, vol. 62, no. 24, pp. 6507-6520, Dec. 2014. <code>[[arXiv]](http://arxiv.org/abs/1402.5265v2)</code>
+9. R. Mochaourab and E. A. Jorswieck, "[Coalitional Games in MISO Interference Channels: Epsilon-Core and Coalition Structure Stable Set](http://dx.doi.org/10.1109/TSP.2014.2367466)," *IEEE Transactions on Signal Processing*, vol. 62, no. 24, pp. 6507-6520, Dec. 2014. [[arXiv]](http://arxiv.org/abs/1402.5265v2)
 
-8. R. Mochaourab, P. Cao, and E. A. Jorswieck, "[Alternating Rate Profile Optimization in Single Stream MIMO Interference Channels](http://dx.doi.org/10.1109/LSP.2013.2297351)," *IEEE Signal Processing Letters*, vol. 21, no. 2, pp. 221-224, Jan. 2014. <code>[[arXiv]](http://arxiv.org/abs/1303.4683v2)</code>
+8. R. Mochaourab, P. Cao, and E. A. Jorswieck, "[Alternating Rate Profile Optimization in Single Stream MIMO Interference Channels](http://dx.doi.org/10.1109/LSP.2013.2297351)," *IEEE Signal Processing Letters*, vol. 21, no. 2, pp. 221-224, Jan. 2014. [[arXiv]](http://arxiv.org/abs/1303.4683v2)
 
-7. R. Mochaourab and E. A. Jorswieck, "[Exchange Economy in Two-User Multiple-Input Single-Output Interference Channels](http://dx.doi.org/10.1109/JSTSP.2011.2174962)," *IEEE Journal of Selected Topics in Signal Processing, Special Issue on Game Theory in Signal Processing*, vol. 6, no. 2, pp. 151-164, Apr. 2012. <code>[[arXiv]](http://arxiv.org/abs/1110.2872v3) [[Matlab Code]](https://github.com/rami-mochaourab/two_user_MISO_IC/archive/master.zip)
-</code>
+7. R. Mochaourab and E. A. Jorswieck, "[Exchange Economy in Two-User Multiple-Input Single-Output Interference Channels](http://dx.doi.org/10.1109/JSTSP.2011.2174962)," *IEEE Journal of Selected Topics in Signal Processing, Special Issue on Game Theory in Signal Processing*, vol. 6, no. 2, pp. 151-164, Apr. 2012. [[arXiv]](http://arxiv.org/abs/1110.2872v3) [[Matlab Code]](https://github.com/rami-mochaourab/two_user_MISO_IC/archive/master.zip)
 
-6. R. Mochaourab and E. A. Jorswieck, "[Robust Beamforming in Interference Channels with Imperfect Transmitter Channel Information](http://dx.doi.org/10.1016/j.sigpro.2012.03.014)," *Signal Processing*, vol. 92, no. 10, pp. 2509-2518, 2012. <code>[[arXiv]](http://arxiv.org/abs/1110.2867v2)</code>
+6. R. Mochaourab and E. A. Jorswieck, "[Robust Beamforming in Interference Channels with Imperfect Transmitter Channel Information](http://dx.doi.org/10.1016/j.sigpro.2012.03.014)," *Signal Processing*, vol. 92, no. 10, pp. 2509-2518, 2012. [[arXiv]](http://arxiv.org/abs/1110.2867v2)
 
 5. R. Mochaourab and E. A. Jorswieck, "[Optimal Beamforming in Interference Networks with Perfect Local Channel Information](http://dx.doi.org/10.1109/TSP.2010.2094612)," *IEEE Transactions on Signal Processing*, vol. 59, no. 3, pp. 1128-1141, Mar. 2011.
 
