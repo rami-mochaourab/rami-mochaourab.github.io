@@ -12,6 +12,11 @@ body {
   color: #1954A6;;
 }
 
+.fit_to_screen {
+    min-height: calc(100vh - 100px);
+    padding:0px 15px 0px 15px;
+}
+
 .block {
     border-radius: 15px;
     float: left;
