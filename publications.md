@@ -5,7 +5,10 @@ title: Publications
 
 ### Journals
 
-15. R. Mochaourab, A. Venkitaraman, I. Samsten, P. Papapetrou, and C. R. Rojas, "[Interpretable Time Series Classification: A Signal Processing Perspective]()," submitted to IEEE Signal Processing Magazine, Special Issue on Explainability in Data Science: Interpretability, Reproducibility, and Replicability, 2021.
+16. R. Mochaourab, A. Venkitaraman, I. Samsten, P. Papapetrou, and C. R. Rojas, "[Post-hoc Explainability for Time Series Classification: Towards a Signal Processing Perspective]()," IEEE Signal Processing Magazine, Special Issue on Explainability in Data Science: Interpretability, Reproducibility, and Replicability, 2022. (to appear)
+
+15. S. Greenstein, P. Papapetrou, and R. Mochaourab, "[Embedding Human Values into Artificial Intelligence]()," in De Vries, Katja (ed.), De Lege, Uppsala University, 2022. (to appear)
+
 
 14. R. Mochaourab and T. Oechtering, "[Private Filtering for Hidden Markov Models](https://doi.org/10.1109/LSP.2018.2827878)," *IEEE Signal Processing Letters*, vol. 25, no. 6, pp. 888-892, Jun. 2018.
 
@@ -38,10 +41,10 @@ title: Publications
 
 ### Conferences and Workshops
 
-33. Z. Wang, I. Samsten, R. Mochaourab and P. Papapetrou, "[Learning Time Series Counterfactuals via Latent Space Representations]()," accepted at International Conference on Discovery Science (DS 2021), Oct. 2021.
+33. Z. Wang, I. Samsten, R. Mochaourab and P. Papapetrou, "[Learning Time Series Counterfactuals via Latent Space Representations](https://doi.org/10.1007/978-3-030-88942-5_29)," International Conference on Discovery Science (DS 2021), Oct. 2021.
 
 
-32. R. Mochaourab, S. Sinha, S. Greenstein, and P. Papapetrou, "[Robust Counterfactual Explanations for Privacy-Preserving SVM](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Ari%3Adiva-55465)," International Conference on Machine Learning (ICML 2021), Workshop on Socially Responsible Machine Learning ([link](https://icmlsrml2021.github.io/)), Jul. 2021. [[arXiv]](https://arxiv.org/abs/2102.03785)
+32. R. Mochaourab, S. Sinha, S. Greenstein, and P. Papapetrou, "[Robust Counterfactual Explanations for Privacy-Preserving SVMs](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Ari%3Adiva-55465)," International Conference on Machine Learning (ICML 2021), Workshop on Socially Responsible Machine Learning ([link](https://icmlsrml2021.github.io/)), Jul. 2021. [[arXiv]](https://arxiv.org/abs/2102.03785)
 
 31. J. Ok, S.-Y. Yun, A. Proutiere, and R. Mochaourab, "[Collaborative Clustering: Sample complexity and Efficient Algorithms](http://proceedings.mlr.press/v76/ok17a.html)," International Conference on Algorithmic Learning Theory (ALT), PMLR 76:288-329, 2017.
 
