@@ -4,25 +4,19 @@ title: Home
 ---
 ### Current Position
 
-* Program Manager "Applied AI & Machine Learning"
-	
-	The program is responsible for coordinating the applied AI projects at the department of Industrial Systems, RISE Digital Systems Division. The department has five different units focusing on autonomous systems, user-centric digitalization, applied digitalization, smart industrial automation, and applied AI and IoT.
+* **Senior Researcher & Program Manager** at RISE Research Institutes of Sweden
+	 
+	Research focus on trustworthy AI and data privacy. The program area "Applied AI & Machine Learning" is responsible for coordinating the applied AI projects at the department of Industrial Systems, RISE Digital Systems Division. The department has five different units focusing on autonomous systems, user-centric digitalization, applied digitalization, smart industrial automation, and applied AI and IoT.
 
-* Digital Futures faculty member (https://www.digitalfutures.kth.se)
-	* Member of the working group "Digitalised Industry" 
-	* Co-PI in the collaborative project "Explainable and Ethical Machine Learning for Knowledge Discovery from Medical Data Sources (EXTREMUM)".
-
-* Senior Researcher & Project Manager
-	
-	Research focus on trustworthy AI and data privacy.
+* **[Digital Futures](https://www.digitalfutures.kth.se) faculty member** and member of the working group [Digitalised Industry](https://www.digitalfutures.kth.se/about/governance/working-groups/digitalized-industry/)
 
 ### Previous Positions
 
-* Postdoctoral researcher (May. 2014 – Dec. 2017) KTH Royal Institute of Technology
+* **Postdoctoral researcher** (May. 2014 – Dec. 2017), KTH Royal Institute of Technology
 	* Department of Signal Processing & ACCESS Linnaeus Centre
-	* Department of Automatic Control
-	* Department of Information Science and Engineering  	
-* Researcher (Aug. 2012 – Feb. 2014) Fraunhofer Heinrich-Hertz-Institute, Berlin
+	* Division of Decision and Control Systems
+	* Division of Information Science and Engineering  	
+* **Researcher** (Aug. 2012 – Feb. 2014), Fraunhofer Heinrich-Hertz-Institute, Berlin
 	* Department of Wireless Communications and Networks 
 
 ### Education
