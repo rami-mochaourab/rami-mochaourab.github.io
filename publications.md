@@ -40,6 +40,9 @@ title: Publications
 
 ### Conferences and Workshops
 
+34. R. Mochaourab, S. Sinha, S. Greenstein, and P. Papapetrou, "[Demonstrator on Counterfactual Explanations for Differentially Private Support Vector Machines]()," Submitted to the Demo Track of European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2022).
+
+
 33. Z. Wang, I. Samsten, R. Mochaourab and P. Papapetrou, "[Learning Time Series Counterfactuals via Latent Space Representations](https://doi.org/10.1007/978-3-030-88942-5_29)," International Conference on Discovery Science (DS 2021), Oct. 2021.
 
 
