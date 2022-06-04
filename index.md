@@ -12,7 +12,7 @@ title: Home
 * **Digital Futures faculty member** and member of the working group [Digitalised Industry](https://www.digitalfutures.kth.se/about/governance/working-groups/digitalized-industry/)
 
 
-### Previous Positions
+#### Previous Positions
 
 * **Postdoctoral researcher** (May. 2014 – Dec. 2017), KTH Royal Institute of Technology
 	* Department of Signal Processing & ACCESS Linnaeus Centre
@@ -21,6 +21,6 @@ title: Home
 * **Researcher** (Aug. 2012 – Feb. 2014), Fraunhofer Heinrich-Hertz-Institute, Berlin
 	* Department of Wireless Communications and Networks 
 
-### Education
+#### Education
 * Ph.D. in Electrical Engineering, TU-Dresden, May 2012
 * M.Sc. in Information Systems Engineering, TU-Dresden, January 2008
