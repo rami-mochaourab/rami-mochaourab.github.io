@@ -2,13 +2,15 @@
 layout: default
 title: Home
 ---
-### Current Position
+
+#### Current Position
 
 * **Senior Researcher & Program Manager** at RISE Research Institutes of Sweden
 	 
-	Research focus on trustworthy AI and data privacy. The program area "Applied AI & Machine Learning" is responsible for coordinating the applied AI projects at the department of Industrial Systems, RISE Digital Systems Division. The department has five different units focusing on autonomous systems, user-centric digitalization, applied digitalization, smart industrial automation, and applied AI and IoT.
+	I am managing the program area "Applied AI & Machine Learning" at the department of Industrial Systems, RISE Digital Systems Division. The department includes five units focusing on autonomous systems, user-centric digitalization, applied digitalization, smart industrial automation, and applied AI and IoT.
 
-* **[Digital Futures](https://www.digitalfutures.kth.se) faculty member** and member of the working group [Digitalised Industry](https://www.digitalfutures.kth.se/about/governance/working-groups/digitalized-industry/)
+* **Digital Futures faculty member** and member of the working group [Digitalised Industry](https://www.digitalfutures.kth.se/about/governance/working-groups/digitalized-industry/)
+
 
 ### Previous Positions
 
