@@ -5,7 +5,7 @@ title: Publications
 
 ### Journals
 
-16. R. Mochaourab, A. Venkitaraman, I. Samsten, P. Papapetrou, and C. R. Rojas, "[Post-hoc Explainability for Time Series Classification: Towards a Signal Processing Perspective](papers/SPM2022.pdf)," *IEEE Signal Processing Magazine*, Special Issue on Explainability in Data Science: Interpretability, Reproducibility, and Replicability, vol. 39, no. 4, Jul. 2022. 
+16. R. Mochaourab, A. Venkitaraman, I. Samsten, P. Papapetrou, and C. R. Rojas, "[Post-hoc Explainability for Time Series Classification: Towards a Signal Processing Perspective](https://doi.org/10.1109/MSP.2022.3155955)," *IEEE Signal Processing Magazine*, Special Issue on Explainability in Data Science: Interpretability, Reproducibility, and Replicability, vol. 39, no. 4, Jul. 2022. 
 
 15. S. Greenstein, P. Papapetrou, and R. Mochaourab, "[Embedding Human Values into Artificial Intelligence]()," in De Vries, Katja (ed.), *De Lege*, Uppsala University, 2022.
 
