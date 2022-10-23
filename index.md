@@ -15,7 +15,7 @@ title: Home
 
 	 *Digital Systems Division, Department of Industrial Systems, User-Centric Digitalisation Unit*
 	
-	Conducting both theoretical and practical research on diverse machine learning topic, especially Explainable AI, time series analysis, and data privacy. I have worked with machine learning models for computer vision, (offline and online) anomaly detection, time series forecasting, time series classification, differential privacy, and information theoretic privacy.
+	Conducting both theoretical and practical research on diverse machine learning topic, especially Explainable AI, time series analysis, computer vision, sequencial decision making, game theory, and data privacy.
 	
 	Selected projects:
 	* Explainable and ethical ML for knowledge discovery from medical data sources
