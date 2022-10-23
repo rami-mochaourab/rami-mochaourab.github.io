@@ -16,12 +16,6 @@ title: Home
 	 *Digital Systems Division, Department of Industrial Systems, User-Centric Digitalisation Unit*
 	
 	Conducting both theoretical and practical research on diverse machine learning topic, especially Explainable AI, time series analysis, computer vision, sequencial decision making, game theory, and data privacy.
-	
-	Selected projects:
-	* Explainable and ethical ML for knowledge discovery from medical data sources
-	* Differentially private ML for insurance cases assessment
-	* Online time-series anomaly detection for network telemetry
-	* Interference detection in satellite signals using machine learning
 
 * **Digital Futures faculty member** and member of the working group [Digitalised Industry](https://www.digitalfutures.kth.se/about/governance/working-groups/digitalized-industry/)
 
