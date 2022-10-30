@@ -15,7 +15,7 @@ title: Home
 
 	 *Digital Systems Division, Department of Industrial Systems, User-Centric Digitalisation Unit*
 	
-	Conducting both theoretical and practical research on diverse machine learning topic, especially Explainable AI, time series analysis, computer vision, sequencial decision making, game theory, and data privacy.
+	Conducting both theoretical and practical research on diverse machine learning topics, including Explainable AI, time series analysis, computer vision, sequencial decision making, game theory, and data privacy.
 
 * **Digital Futures faculty member** and member of the working group [Digitalised Industry](https://www.digitalfutures.kth.se/about/governance/working-groups/digitalized-industry/)
 
